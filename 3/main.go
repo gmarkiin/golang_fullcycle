@@ -2,7 +2,7 @@ package main
 
 const a = "Hello World"
 
-type ID int // Declare of a type with receives a primal type (this point of the class FOR ME don't make sense
+type ID int // Declare of a type with receives a primal type (this point of the class FOR ME don't make sense)
 
 var (
 	b bool    = true
